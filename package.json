@@ -1,0 +1,14 @@
+{
+  "name": "semana-5",
+  "version": "0.0.1",
+  "description": "Examen 1 Programacion 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Examen1"
+  ],
+  "author": "Sergio Padilla",
+  "license": "ISC"
+}
