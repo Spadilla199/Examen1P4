@@ -10,5 +10,8 @@
     "Examen1"
   ],
   "author": "Sergio Padilla",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
